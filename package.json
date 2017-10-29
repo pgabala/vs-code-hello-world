@@ -1,0 +1,11 @@
+{
+  "name": "vs-code-hello-world",
+  "version": "1.0.0",
+  "description": "first vs code extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Patrick Gabala",
+  "license": "ISC"
+}
